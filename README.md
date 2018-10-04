@@ -1,3 +1,8 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/hibernate/hibernate-orm).
+
+
 <img src="http://static.jboss.org/hibernate/images/hibernate_logo_whitebkg_200px.png" />
 
 
